@@ -27,7 +27,7 @@ No terminal é possível verificar o processo com a função void 'estado_JDV', 
 e informa ao usuário quando o jogo é encerrado devido a equivalência de matrizes mencionada anteriormente.
 
 Durante o processo de desenvolvimento do trabalho, não tive dificuldade na lógica do jogo. Porém tentei realizar algumas
-aplicações da linguagem inválidas (preciso intensificar meus estudos em C++). Ao final aprendi um comando que eu não conhecia:
+aplicações da linguagem inválidas (preciso intensificar meus estudos em C++). Ao final aprendi comandos que eu não conhecia:
 
 | Comando                |  Função                                                                                           |                     
 | -----------------------| ------------------------------------------------------------------------------------------------- |
