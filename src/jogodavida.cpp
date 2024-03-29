@@ -1,12 +1,5 @@
 #include "jogodavida.hpp"
 
-// ler arq input para pegar a ordem e a matriz original
-// crio uma aux colocando o resultado de pontos a pontos na matriz
-// 5 x 5 é o tamanho min
-// se a proxmatriz for identica a anterior, para o programa
-
-#include <vector>
-
 void iniciar_JDV() {
   cout << "INICIANDO JOGO..." << endl;
   
