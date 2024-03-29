@@ -32,3 +32,4 @@ aplicações da linguagem inválidas (preciso intensificar meus estudos em C++).
 | Comando                |  Função                                                                                           |                     
 | -----------------------| ------------------------------------------------------------------------------------------------- |
 |  `for (auto var : array)` | um laço que pega cada dado de um conjunto, o auto é para indentificar automaticamente o dado |
+| `stoi()` | função que converte um número do tipo char para o tipo inteiro |
