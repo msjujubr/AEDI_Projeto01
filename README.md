@@ -7,8 +7,7 @@
 O Jogo da Vida é um autômato celular, representado por uma matriz 2D de células, cada uma
 podendo estar viva (1) ou morta (2). Seguindo as seguintes regras:
 
-  - Uma célula viva com menos de dois vizinhos vivos morre; 
-  - Uma célula viva com mais de três vizinhos vivos morre;
+  - Uma célula viva com menos de dois ou mais de três vizinhos vivos morre; 
   - Uma célula viva com dois ou três vizinhos vivos sobrevive;
   - Uma célula morta com exatamente três vizinhos vivos se torna viva (reprodução).
 
