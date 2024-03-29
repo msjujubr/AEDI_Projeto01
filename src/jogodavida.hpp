@@ -3,6 +3,8 @@
 
 #include <iostream>
 #include <fstream>
+#include <vector>
+
 using namespace std;
 
 //funcoes atribuidas
@@ -15,4 +17,5 @@ void relatorio_JVD(int **&mat, int tam);
 int contagem(int **&tab, int x, int y, int t);
 bool equivalencia(int **&tab, int **&tabaux, int tam);
 int vivos(int **&mataux, int tam);
+
 #endif
